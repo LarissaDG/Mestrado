@@ -1,3 +1,6 @@
+# Ignorar arquivos de backup
+*~
+
 __pycache__/
 Imagens_oficial/
 Crawler/
